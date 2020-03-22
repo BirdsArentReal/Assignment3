@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Assignment3</string>
 
-    <string name="termsAndConditions">By clicking on \'I agree\', you agree with the following:\n\n1. Shrek is love, Shrek is life\n\n2. Steve Jobs was jobless before creating Apple\n\n3.All your data belongs to me\n\n</string>
+    <string name="termsAndConditions">By clicking on \'I agree\', you agree with the following:\n\n1. Shrek is love, Shrek is life\n\n2. Steve Jobs was jobless before creating Apple\n\n3.All your data belongs to me\n\n4.All your family members belong to the almighty XY</string>
 
     <string name="noWords">Number Of Words</string>
     <string name="mostOccurring">Most Occurring Word</string>
