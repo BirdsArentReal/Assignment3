@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/recordPage"
+        android:icon="@drawable/ic_mic_black_24dp"
+        android:title="Record" />
+
+    <item
+        android:id="@+id/dataPage"
+        android:icon="@drawable/ic_folder_black_24dp"
+        android:title="Data" />
+
+    <item
+        android:id="@+id/sendPage"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Export" />
+
+</menu>
