@@ -17,21 +17,19 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         SharedPreferences sharedPref = this.getPreferences(Context.MODE_PRIVATE);
-
-
         int checked = sharedPref.getInt("checked", 0);
-        if (checked == 1){
+        if (checked == 1) {
             Intent intent = new Intent(this, HomeActivity.class);
             startActivity(intent);
         }
-        else{
+        else {
             SharedPreferences.Editor editor = sharedPref.edit();
             editor.putInt("Checked", 1);
             editor.commit();
         }
     }
 
-    public void onAgreeClicked(View view){
+    public void onAgreeClicked(View view) {
         Toast toast = Toast.makeText(getApplicationContext(), "Hey! You didn't read the terms and conditions! That's Illegal!", Toast.LENGTH_SHORT);
         toast.show();
         Intent intent = new Intent(this, HomeActivity.class);
