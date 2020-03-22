@@ -3,7 +3,7 @@ package com.example.assignment3;
 import java.util.HashMap;
 
 public class LazyDatabase {
-    static String speechText = "REEEEEEEEEEEEEEEEEEE";
+    static String speechText = "";
 
     public static void setSpeechText(String speechText) {
         LazyDatabase.speechText = speechText;

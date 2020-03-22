@@ -28,6 +28,9 @@ public class RecordingFragment extends Fragment {
         View v = inflater.inflate(R.layout.fragment_recording, container, false);
         img = v.findViewById(R.id.recordButton);
         speechOutput = v.findViewById(R.id.speechOutput);
+        if (!LazyDatabase.speechText.equals("")){
+            speechOutput.setText(LazyDatabase.speechText);
+        }
         img.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
