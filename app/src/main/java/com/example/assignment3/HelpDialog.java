@@ -19,7 +19,7 @@ public class HelpDialog extends AppCompatDialogFragment {
         View view = inflater.inflate(R.layout.dialog_help, null);
 
         builder.setView(view);
-        builder.setTitle("Profile");
+        builder.setTitle("Help");
         builder.setPositiveButton("ok", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
