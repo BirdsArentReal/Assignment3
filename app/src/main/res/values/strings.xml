@@ -1,14 +1,42 @@
 <resources>
     <string name="app_name">Assignment3</string>
 
-    <string name="termsAndConditions">By clicking on \'I agree\', you agree with the following:\n\n1. Shrek is love, Shrek is life\n\n2. You have read the following\n\nLong ago, the programmer and his family lived together in harmony. Then, everything changed when the fire nation attac- I mean, when the application came into existence. Only the programmer, the creator of this madness, could stop the world-ending disappointment that is this application, but when the programmer needed his family most, they vanished. A hundred years had passed and the programmer found a clue to locate his family, a note that said that his family disowned him. Although the programmer spent 69,420 years on detective work to find his family, he could never find any of them. He never understood what the initials XY on the envelope stood for. \n\nHow Unfortunate.\n\n3.All your data belongs to me\n\n4.All your family members belong to the almighty XY\n\n5.A jobless Steve Jobs isnt technically Steve Jobs.\n\nItaly has more deaths to Corona than China</string>
+    <string name="termsAndConditions">By clicking on \'I agree\', you agree with the following:
+
+        \n\n1. Shrek is love, Shrek is life
+
+        \n\n2. You have read the following
+
+        \n\nLong ago, the programmer and his family lived together in harmony. Then, everything changed when the fire nation attac- I mean, when the application came into existence. Only the programmer, the creator of this madness, could stop the world-ending disappointment that is this application, but when the programmer needed his family most, they vanished. A hundred years had passed and the programmer found a clue to locate his family, a note that said that his family disowned him. Although the programmer spent 69,420 years on detective work to find his family, he could never find any of them. He never understood what the initials XY on the envelope stood for. \n\nHow Unfortunate.
+
+        \n\n3.All your data belongs to me
+
+        \n\n4.All your family members belong to the almighty XY
+
+        \n\n5.A jobless Steve Jobs isnt technically Steve Jobs.
+
+        \n\nItaly has more deaths to Corona than China</string>
 
     <string name="noWords">Number Of Words</string>
     <string name="mostOccurring">Most Occurring Word</string>
     <string name="mostOccurring2">2nd Most Occurring Word</string>
 
-    <string name="helpText">In the Record Tab, click on the blue mic to start recording your speech (Punctuation not included). A block of text has been given for inspiration, but your speech will be displayed there after the recording.\n\nAfterwards, go to the Data tab to see the analysis of your speech, or go to the Export tab to export your speech (in text format)!</string>
+    <string name="helpText">In the Record Tab, click on the blue mic to start recording your speech
+        (Punctuation not included). A block of text has been given for inspiration, but your speech will
+        be displayed there after the recording.
 
-    <string name="profileTextImpt">This programmer would like to thank Mr Ng for his guidance in the making of the project</string>
-    <string name="profileText">Long ago, the programmer and his family lived together in harmony. Then, everything changed when the fire nation attac- I mean, when the application came into existence. Only the programmer, the creator of this madness, could stop the world-ending disappointment that is this application, but when the programmer needed his family most, they vanished. A hundred years had passed and the programmer found a clue to locate his family, a note that said that his family disowned him. Although the programmer spent 69,420 years on detective work to find his family, he could never find any of them. He never understood what the initials XY on the envelope stood for. \n\nHow Unfortunate.</string>
+        \n\nAfterwards, go to the Data tab to see the analysis of your speech, or go to the Export tab to
+        export your speech (in text format)!</string>
+
+    <string name="profileTextImpt">This programmer would like to thank Mr Ng for his guidance in the
+        making of the project</string>
+
+    <string name="profileText">Long ago, the programmer and his family lived together in harmony.
+        Then, everything changed when the fire nation attac- I mean, when the application came into
+        existence. Only the programmer, the creator of this madness, could stop the world-ending
+        disappointment that is this application, but when the programmer needed his family most, they
+        vanished. A hundred years had passed and the programmer found a clue to locate his family, a
+        note that said that his family disowned him. Although the programmer spent 69,420 years on
+        detective work to find his family, he could never find any of them. He never understood what the
+        initials XY on the envelope stood for. \n\nHow Unfortunate.</string>
 </resources>
