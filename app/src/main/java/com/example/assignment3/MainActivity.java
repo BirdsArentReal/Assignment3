@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else {
             SharedPreferences.Editor editor = sharedPref.edit();
-            editor.putInt("Checked", 1);
+            editor.putInt("checked", 1);
             editor.commit();
         }
     }
